@@ -1,0 +1,38 @@
+
+body
+{
+    font-family: "Questrial", Monospace;
+}
+
+header
+{
+    background-color: brown ;
+    display: flex; 
+    justify-content: center;
+    font-family: "Germania one", monospace;
+    color: white;
+    border-radius: 20px;
+}
+
+header .nome{
+    font-size: 60px;
+}
+header .tributo
+{
+    font-size: 30px; 
+}
+
+
+.fts
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 40px;
+    margin-top: 20px;
+}
+
+.fts img{
+    border-radius: 20px;
+    
+}
+
